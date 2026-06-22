@@ -81,7 +81,7 @@ Implemented DDL scripts, analytical queries, aggregations, joins, views and KPI 
 
 ## 📊 Dashboards
 
-![Power BI](images/powerbi_dashboard.png)
+![Power BI](images/food_delivery_analytics_dashboard.PNG)
 
 ![BigQuery](images/bigquery_dataset.png)
 
