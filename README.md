@@ -105,7 +105,7 @@ Implemented DDL scripts, analytical queries, aggregations, joins, views and KPI 
 Business Analysis, SQL, PostgreSQL, BigQuery, Power BI, Looker Studio, Google Sheets, Jira, Scrum, Miro, Git & GitHub.
 
 ## 👨‍💻 Author
-**Vibhooti Trivedi**
+**Vibhooti Trivedi Shukla**
 
 Business Analyst | Data Analyst
 
