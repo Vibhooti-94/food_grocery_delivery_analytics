@@ -85,7 +85,9 @@ Implemented DDL scripts, analytical queries, aggregations, joins, views and KPI 
 
 ![Power BI 2](images/food_delivery_analytics_dashboard1.PNG)
 
-![BigQuery]()
+![BigQuery](images/Bigquery_dataset.PNG)
+
+![JIRA](images/JIRA_board.PNG)
 
 ![Looker Studio](images/looker_city_cusine_delivery_dashboard.PNG)
 ![Looker Studio](images/looker_fooddeliveryanalysis_calculatedfield_dashboard.PNG)
