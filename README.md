@@ -88,7 +88,7 @@ Implemented DDL scripts, analytical queries, aggregations, joins, views and KPI 
 ![BigQuery](images/bigquery_dataset.png)
 
 ![Looker Studio](images/looker_city_cusine_delivery_dashboard.PNG)
-![Looker Studio](images/looker_city_cusine_delivery_dashboard.PNG)
+![Looker Studio](images/looker_fooddeliveryanalysis_calculatedfield_dashboard.PNG)
 ![Looker Studio](images/looker_city_cusine_delivery_dashboard.PNG)
 
 ## 📈 Business Insights
