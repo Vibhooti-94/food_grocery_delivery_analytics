@@ -25,7 +25,7 @@ Raw CSV Files
 
 ## 🔄 Workflow
 
-![Workflow](images/process_flow.png)
+![Workflow](images/process_Flow_Food_delivery_analytics.png)
 
 Discovery → BRD → FRD → User Stories → Google Sheets Cleaning → PostgreSQL → Power BI → BigQuery → Looker Studio → Business Insights
 
